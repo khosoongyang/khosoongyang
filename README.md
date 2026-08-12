@@ -110,10 +110,6 @@ A snapshot of what I've been learning, experimenting with, and contributing to.
 
 <p align="center">
 
-<a href="https://github.com/khosoongyang">
-  <img src="https://img.shields.io/badge/GitHub-khosoongyang-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <a href="https://www.linkedin.com/in/soong-yang-kho/">
   <img src="https://img.shields.io/badge/LinkedIn-Soong%20Yang%20Kho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
