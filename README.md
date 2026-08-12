@@ -68,18 +68,21 @@ I enjoy exploring both defensive and offensive security, from threat hunting and
   <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square" />
 </p>
 
-### ☁️ Cloud & Platforms
+### ☁️ Cloud & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 
-### 🖥️ Operating Systems
+### 🖥️ Operating Systems & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white" />
 </p>
 
 ---
