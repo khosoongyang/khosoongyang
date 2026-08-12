@@ -1,11 +1,12 @@
+```md
 <div align="center">
 
 # 👋 Hi, I'm Soong Yang
 
-### Cybersecurity · AI · Full-Stack Development
+### Cybersecurity · AI · Automation
 
 I build practical technology at the intersection of  
-**cybersecurity, artificial intelligence, automation, and software engineering.**
+**cybersecurity, artificial intelligence, and automation.**
 
 </div>
 
@@ -26,20 +27,18 @@ I build practical technology at the intersection of
 
 ## 👨‍💻 About Me
 
-I'm a cybersecurity student and developer from Singapore who enjoys building systems that solve real-world problems.
+I'm a cybersecurity student and developer from Singapore with a strong interest in **cybersecurity, artificial intelligence, and automation**.
 
-My interests span **cybersecurity, AI engineering, intelligent automation, full-stack development, and developer tools**.
+I enjoy building practical systems that combine AI and software to automate workflows, support decision-making, and solve real-world problems.
 
-I especially enjoy projects where software can automate complex workflows, assist human decision-making, or make security operations more efficient.
+My main areas of interest include:
 
-Currently exploring:
-
-- 🛡️ Cybersecurity & Security Engineering
-- 🤖 AI Agents & Intelligent Automation
-- 🔍 Threat Detection & Security Operations
-- ⚙️ Workflow Automation
-- 🌐 Full-Stack Application Development
-- 🧠 Retrieval-Augmented Generation & AI Systems
+- 🛡️ Cybersecurity
+- 🤖 Artificial Intelligence
+- ⚙️ Automation
+- 🔍 Security Operations & Threat Detection
+- 🧠 AI Agents & Retrieval-Augmented Generation
+- 💻 Software Development
 
 <p align="center">
   <picture>
@@ -58,7 +57,7 @@ Currently exploring:
 
 ## 🧰 Tech Stack
 
-I work across **security, AI, backend systems, web development, databases, and automation**.
+My technical stack spans **cybersecurity, AI, automation, software development, and data systems**.
 
 <p align="center">
   <picture>
@@ -77,7 +76,7 @@ I work across **security, AI, backend systems, web development, databases, and a
 
 ## 🚀 Featured Projects
 
-I enjoy turning ideas into working products, from cybersecurity tools and AI systems to full-stack applications and automation workflows.
+I enjoy turning ideas into working products, from **cybersecurity tools and AI systems to automation workflows and full-stack applications**.
 
 <p align="center">
   <picture>
@@ -113,7 +112,7 @@ I enjoy turning ideas into working products, from cybersecurity tools and AI sys
 
 ## 🤝 Let's Connect
 
-I'm always interested in meeting people working on **cybersecurity, AI, open-source software, startups, and technology for good**.
+I'm always interested in connecting with people working on **cybersecurity, AI, automation, startups, open-source projects, and technology for good**.
 
 <p align="center">
   <picture>
@@ -135,3 +134,4 @@ I'm always interested in meeting people working on **cybersecurity, AI, open-sou
 ⭐ Explore my repositories below.
 
 </div>
+```
