@@ -120,7 +120,8 @@ A snapshot of what I've been learning, experimenting with, and contributing to.
 <p align="center">
   Always open to connecting, collaborating, and exploring what comes next.
 </p>
-<p>
+<br>
+</br>
 <p align="center">
   <img src="https://img.shields.io/badge/⚡_BREAK_BOUNDARIES-18181B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BUILD_INTELLIGENCE-6E40C9?style=for-the-badge" />
