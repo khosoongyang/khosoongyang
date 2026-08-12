@@ -1,7 +1,57 @@
-<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=khosoongyang&theme=aurora&label=khosoongyang&mode=light" /><img src="https://www.gitskins.com/api/section/wordmark?username=khosoongyang&theme=aurora&label=khosoongyang" width="100%" alt="khosoongyang" /></picture> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=khosoongyang&theme=aurora&mode=light" /> <img src="https://www.gitskins.com/api/section/hero?username=khosoongyang&theme=aurora&mode=dark" width="100%" alt="khosoongyang — profile" /> </picture> </p> <p align="center"><a href="https://github.com/khosoongyang">GitHub</a></p> <p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=khosoongyang&theme=aurora&items=Python%3A%3A5+public+repositories%7CBuilding%3A%3AShipping+in+the+open%7CImpact%3A%3A4+stars+%C2%B7+5+active+days&mode=light" /><img src="https://www.gitskins.com/api/section/highlights?username=khosoongyang&theme=aurora&items=Python%3A%3A5+public+repositories%7CBuilding%3A%3AShipping+in+the+open%7CImpact%3A%3A4+stars+%C2%B7+5+active+days" width="100%" alt="Highlights" /></picture> </p>
-The year, so far
-<p align="center"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=khosoongyang&theme=aurora&style=jet&mode=light" /> <img src="https://www.gitskins.com/api/section/heatmap?username=khosoongyang&theme=aurora&style=jet&mode=dark" width="100%" alt="17 contributions in the last year" /> </picture> </p>
-Signal
-<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=khosoongyang&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=khosoongyang&theme=aurora" width="100%" alt="4 stars across 5 repositories" /></picture> </p> <p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=khosoongyang&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=khosoongyang&theme=aurora" width="100%" alt="Language stack" /></picture> </p>
-Profile scan
-<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=khosoongyang&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/system-scan?username=khosoongyang&theme=aurora" width="100%" alt="ASCII profile scan" /></picture> </p> <hr /> <p align="center"> <sub>khosoongyang · every panel is a single <code>&lt;img&gt;</code> of live GitHub data · built with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub> </p>
+# khosoongyang
+
+> Memorable developer positioning.
+
+**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
+
+## Header
+> Editing this section in the inspector.
+Hi, I'm **khosoongyang**. This README is tuned for **personal brand** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=khosoongyang&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=khosoongyang&theme=github-dark&style=terminal" alt="khosoongyang hero section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=khosoongyang&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=khosoongyang&theme=github-dark&style=terminal" alt="khosoongyang about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=khosoongyang&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=khosoongyang&theme=github-dark&style=terminal" alt="khosoongyang stack section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=khosoongyang&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=khosoongyang&theme=github-dark&style=terminal" alt="khosoongyang stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=khosoongyang&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=khosoongyang&theme=github-dark&style=terminal" alt="khosoongyang projects section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=khosoongyang&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=khosoongyang&theme=github-dark&style=terminal" alt="khosoongyang social section" />
+  </picture>
+</p>
+
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->
