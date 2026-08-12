@@ -109,22 +109,20 @@ A snapshot of what I've been learning, experimenting with, and contributing to.
 ## 🔗 Links
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/soong-yang-kho/">
-  <img src="https://img.shields.io/badge/LinkedIn-Soong%20Yang%20Kho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+  <a href="https://www.linkedin.com/in/soong-yang-kho/">
+    <img src="https://img.shields.io/badge/LinkedIn-Soong%20Yang%20Kho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
   Always open to connecting, collaborating, and exploring what comes next.
 </p>
 
-<br>
-
-<h2 align="center">
-  ⚡ Break boundaries. Build intelligence. Automate impact.
-</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_BREAK_BOUNDARIES-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BUILD_INTELLIGENCE-6E40C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AUTOMATE_IMPACT-238636?style=for-the-badge" />
+</p>
 
 <p align="center">
   <b>Thank you for visiting! 👾</b>
