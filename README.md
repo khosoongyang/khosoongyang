@@ -32,7 +32,7 @@ I enjoy exploring both defensive and offensive security, from threat hunting and
 
 ### 🛡️ Cybersecurity
 
-`Security Operations` `Incident Response` `Network Security` `Application Security` `Penetration Testing` `Digital Forensics` `Governance, Risk, and Compliance (GRC)`
+`Security Operations` `Incident Response` `Network Security` `Application Security` `Operating Systems (OS) Security` `Penetration Testing` `Digital Forensics` `Governance, Risk, and Compliance (GRC)`
 
 ### 🤖 AI & Automation
 
