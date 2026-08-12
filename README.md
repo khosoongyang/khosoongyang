@@ -121,19 +121,15 @@ A snapshot of what I've been learning, experimenting with, and contributing to.
 </p>
 
 <p align="center">
-  <sub>Always open to connecting, collaborating, and exploring what comes next.</sub>
+  Always open to connecting, collaborating, and exploring what comes next.
 </p>
 
 <br>
 
-<div align="center">
+<h2 align="center">
+  ⚡ Break boundaries. Build intelligence. Automate impact.
+</h2>
 
-### ⚡ `Break boundaries. Build intelligence. Automate impact.`
-
-<sub>Cybersecurity × AI × Automation</sub>
-
-<br><br>
-
-**Thank you for visiting! 👾**
-
-</div>
+<p align="center">
+  <b>Thank you for visiting! 👾</b>
+</p>
