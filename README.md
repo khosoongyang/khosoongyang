@@ -19,10 +19,10 @@ I enjoy exploring both defensive and offensive security, from threat hunting and
 ### 🔭 Currently Exploring
 
 * 🛡️ **Security Operations & Threat Hunting**
-* 🔎 **DFIR (Digital Forensics & Incident Response)**
+* 🔎 **Digital Forensics & Incident Response (DFIR)**
 * ⚔️ **Offensive Security & Penetration Testing**
 * 🤖 **Applied AI & Intelligent Automation**
-* ⚙️ **Workflow Orchestration**
+* ⚙️ **AI/ML Security**
 * 🔐 **Security Engineering**
 * ☁️ **Cloud & Infrastructure Security**
 
@@ -32,7 +32,7 @@ I enjoy exploring both defensive and offensive security, from threat hunting and
 
 ### 🛡️ Cybersecurity
 
-`Security Operations` `Threat Hunting` `Threat Detection` `Threat Intelligence` `Digital Forensics` `Incident Response` `Penetration Testing` `Network Security` `SIEM`
+`Security Operations` `Incident Response` `Network Security` `Application Security` `Penetration Testing` `Digital Forensics` `Governance, Risk, and Compliance (GRC)`
 
 ### 🤖 AI & Automation
 
