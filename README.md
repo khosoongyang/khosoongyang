@@ -4,7 +4,7 @@
 
 ### Cybersecurity · Artificial Intelligence · Automation
 
-Exploring how **AI and automation can strengthen security operations, investigations, and decision-making.**
+Exploring how intelligent systems can strengthen **security operations, investigations, and decision-making**.
 
 </div>
 
@@ -12,50 +12,40 @@ Exploring how **AI and automation can strengthen security operations, investigat
 
 ## 👨‍💻 About Me
 
-I'm a cybersecurity student from Singapore interested in how **artificial intelligence and automation can be applied to real security problems**.
+I'm a cybersecurity student from Singapore interested in the intersection of **security, artificial intelligence, and automation**.
 
-I enjoy working across security operations, threat analysis, intelligent agents, workflow orchestration, and software engineering, particularly where technology can reduce repetitive work and help analysts make better decisions.
+I enjoy exploring both defensive and offensive security, from threat hunting and digital forensics to penetration testing, while experimenting with how AI can support analysts, streamline complex processes, and improve security workflows.
 
-Areas I'm currently exploring:
+### 🔭 Currently Exploring
 
-* 🛡️ Security Operations
-* 🔍 Threat Detection & Investigation
-* 🤖 Applied AI & AI Agents
-* ⚙️ Workflow Automation
-* 🧠 Retrieval-Augmented Generation
-* 🔐 Security Engineering
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://www.gitskins.com/api/section/about?username=khosoongyang&theme=github-dark&style=terminal&mode=light"
-    />
-    <img
-      src="https://www.gitskins.com/api/section/about?username=khosoongyang&theme=github-dark&style=terminal"
-      alt="About Soong Yang"
-    />
-  </picture>
-</p>
+* 🛡️ **Security Operations & Threat Hunting**
+* 🔎 **DFIR (Digital Forensics & Incident Response)**
+* ⚔️ **Offensive Security & Penetration Testing**
+* 🤖 **Applied AI & Intelligent Automation**
+* ⚙️ **Workflow Orchestration**
+* 🔐 **Security Engineering**
+* ☁️ **Cloud & Infrastructure Security**
 
 ---
 
-## 🧰 Skills
+## 🧰 Skills & Technologies
 
-### Cybersecurity
+### 🛡️ Cybersecurity
 
-Security Operations · Threat Detection · Threat Intelligence · Digital Forensics · Network Security · Incident Investigation · SIEM
+`Security Operations` `Threat Hunting` `Threat Detection` `Threat Intelligence` `Digital Forensics` `Incident Response` `Penetration Testing` `Network Security` `SIEM`
 
-### AI & Automation
+### 🤖 AI & Automation
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-Systems-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Agents-Intelligent_Automation-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Botpress-000000?style=flat-square&logo=botpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square" />
+  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Workato-FF4F64?style=flat-square" />
 </p>
 
-### Development
+### 💻 Development
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -67,7 +57,7 @@ Security Operations · Threat Detection · Threat Intelligence · Digital Forens
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
-### Databases & Data
+### 🗄️ Databases & Data
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -75,13 +65,28 @@ Security Operations · Threat Detection · Threat Intelligence · Digital Forens
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square" />
+</p>
+
+### ☁️ Cloud & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+</p>
+
+### 🖥️ Operating Systems
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 GitHub Activity
 
-A snapshot of what I've been learning, experimenting with, and contributing to on GitHub.
+A snapshot of what I've been learning, experimenting with, and contributing to.
 
 <p align="center">
   <picture>
@@ -112,8 +117,28 @@ A snapshot of what I've been learning, experimenting with, and contributing to o
 
 </p>
 
+<br>
+
 <div align="center">
 
-### `build → analyse → automate → improve`
+### ⚡ `SYSTEM STATUS: ALWAYS LEARNING`
+
+<pre>
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│   DETECT  →  INVESTIGATE  →  AUTOMATE  →  EVOLVE   │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+</pre>
+
+`CYBERSECURITY`   ×   `ARTIFICIAL INTELLIGENCE`   ×   `AUTOMATION`
+
+<br>
+
+<sub>⚙️ Building smarter systems · 🔍 Questioning assumptions · 🛡️ Strengthening defence</sub>
+
+<br><br>
+
+**Thanks for visiting. 👾**
 
 </div>
