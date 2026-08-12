@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # 👋 Hi, I'm Soong Yang
@@ -134,4 +133,3 @@ I'm always interested in connecting with people working on **cybersecurity, AI, 
 ⭐ Explore my repositories below.
 
 </div>
-```
