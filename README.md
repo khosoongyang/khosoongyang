@@ -109,6 +109,9 @@ A snapshot of what I've been learning, experimenting with, and contributing to.
 ## 🔗 Links
 
 <p align="center">
+  <a href="mailto:khosoongyang@gmail.com">
+    <img src="https://img.shields.io/badge/Email-khosoongyang%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/soong-yang-kho/">
     <img src="https://img.shields.io/badge/LinkedIn-Soong%20Yang%20Kho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
