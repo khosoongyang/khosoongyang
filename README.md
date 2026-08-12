@@ -122,26 +122,42 @@ A snapshot of what I've been learning, experimenting with, and contributing to.
 
 <br>
 
+---
+
 <div align="center">
 
-### ⚡ `SYSTEM STATUS: ALWAYS LEARNING`
+## ⚡ Operating Loop
 
-<pre>
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│   DETECT  →  INVESTIGATE  →  AUTOMATE  →  EVOLVE   │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-</pre>
-
-`CYBERSECURITY`   ×   `ARTIFICIAL INTELLIGENCE`   ×   `AUTOMATION`
-
-<br>
-
-<sub>⚙️ Building smarter systems · 🔍 Questioning assumptions · 🛡️ Strengthening defence</sub>
+<sub>How I approach security problems and technical challenges.</sub>
 
 <br><br>
 
-**Thanks for visiting. 👾**
+<img src="https://img.shields.io/badge/01-DETECT-238636?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/02-INVESTIGATE-1F6FEB?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/03-AUTOMATE-8957E5?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/04-EVOLVE-F0883E?style=for-the-badge" />
+
+<br><br>
+
+`signal` → `evidence` → `action` → `improvement`
+
+<br><br>
+
+<sub>
+🔍 Follow the evidence &nbsp;•&nbsp;
+⚙️ Automate the repeatable &nbsp;•&nbsp;
+🛡️ Strengthen the system
+</sub>
+
+<br><br>
+
+### `SECURITY × INTELLIGENCE × AUTOMATION`
+
+<br>
+
+**Thanks for stopping by 👾**
 
 </div>
