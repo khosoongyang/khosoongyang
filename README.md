@@ -120,9 +120,9 @@ A snapshot of what I've been learning, experimenting with, and contributing to.
 
 </p>
 
-<br>
-
----
+<p align="center">
+  <sub>Always open to connecting, collaborating, and exploring what comes next.</sub>
+</p>
 
 <br>
 
@@ -130,7 +130,9 @@ A snapshot of what I've been learning, experimenting with, and contributing to.
 
 ### ⚡ `Break boundaries. Build intelligence. Automate impact.`
 
-<br>
+<sub>Cybersecurity × AI × Automation</sub>
+
+<br><br>
 
 **Thank you for visiting! 👾**
 
