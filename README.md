@@ -4,8 +4,7 @@
 
 ### Cybersecurity · AI · Automation
 
-I build practical technology at the intersection of  
-**cybersecurity, artificial intelligence, and automation.**
+Exploring how intelligent systems can make security work **faster, more effective, and easier to scale**.
 
 </div>
 
@@ -26,18 +25,18 @@ I build practical technology at the intersection of
 
 ## 👨‍💻 About Me
 
-I'm a cybersecurity student and developer from Singapore with a strong interest in **cybersecurity, artificial intelligence, and automation**.
+I'm a cybersecurity student from Singapore with a strong interest in the intersection of **security, artificial intelligence, and automation**.
 
-I enjoy building practical systems that combine AI and software to automate workflows, support decision-making, and solve real-world problems.
+I'm particularly interested in how AI can support areas such as threat detection, security investigations, decision-making, and repetitive analyst work. I enjoy taking these ideas beyond prototypes and turning them into systems that can actually be used.
 
-My main areas of interest include:
+My current areas of interest include:
 
-- 🛡️ Cybersecurity
-- 🤖 Artificial Intelligence
-- ⚙️ Automation
-- 🔍 Security Operations & Threat Detection
-- 🧠 AI Agents & Retrieval-Augmented Generation
-- 💻 Software Development
+* 🛡️ Security Operations & Threat Detection
+* 🤖 AI Agents & Applied AI
+* ⚙️ Workflow Orchestration
+* 🔍 Threat Intelligence & Investigation
+* 🧠 Retrieval-Augmented Generation
+* 🔐 Security Engineering
 
 <p align="center">
   <picture>
@@ -54,9 +53,9 @@ My main areas of interest include:
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Skills
 
-My technical stack spans **cybersecurity, AI, automation, software development, and data systems**.
+Technologies and tools I use to turn ideas into working applications, security tools, and intelligent systems.
 
 <p align="center">
   <picture>
@@ -73,9 +72,11 @@ My technical stack spans **cybersecurity, AI, automation, software development, 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-I enjoy turning ideas into working products, from **cybersecurity tools and AI systems to automation workflows and full-stack applications**.
+Things I've **built, tested, experimented with, and shipped**.
+
+My projects span areas such as SOC investigation, threat analysis, AI-assisted decision support, log analysis, intelligent agents, web applications, and workflow orchestration.
 
 <p align="center">
   <picture>
@@ -94,6 +95,8 @@ I enjoy turning ideas into working products, from **cybersecurity tools and AI s
 
 ## 📊 GitHub Activity
 
+A snapshot of my repositories, contributions, languages, and development activity.
+
 <p align="center">
   <picture>
     <source
@@ -109,9 +112,11 @@ I enjoy turning ideas into working products, from **cybersecurity tools and AI s
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
-I'm always interested in connecting with people working on **cybersecurity, AI, automation, startups, open-source projects, and technology for good**.
+Interested in collaborating on **security projects, applied AI, research, hackathons, open-source work, or technology for good**?
+
+Feel free to reach out.
 
 <p align="center">
   <picture>
@@ -129,7 +134,5 @@ I'm always interested in connecting with people working on **cybersecurity, AI, 
 <div align="center">
 
 ### `build → break → learn → improve`
-
-⭐ Explore my repositories below.
 
 </div>
