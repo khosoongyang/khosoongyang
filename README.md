@@ -19,10 +19,10 @@ I enjoy exploring both defensive and offensive security, from threat hunting and
 ### 🔭 Currently Exploring
 
 * 🛡️ **Security Operations & Threat Hunting**
-* 🔎 **Digital Forensics & Incident Response (DFIR)**
+* 🔎 **DFIR (Digital Forensics & Incident Response)**
 * ⚔️ **Offensive Security & Penetration Testing**
 * 🤖 **Applied AI & Intelligent Automation**
-* ⚙️ **AI/ML Security**
+* ⚙️ **Workflow Orchestration**
 * 🔐 **Security Engineering**
 * ☁️ **Cloud & Infrastructure Security**
 
@@ -32,7 +32,7 @@ I enjoy exploring both defensive and offensive security, from threat hunting and
 
 ### 🛡️ Cybersecurity
 
-`Security Operations` `Incident Response` `Network Security` `Application Security` `Operating Systems (OS) Security` `Penetration Testing` `Digital Forensics` `Governance, Risk, and Compliance (GRC)`
+`Security Operations` `Threat Hunting` `Threat Detection` `Threat Intelligence` `Digital Forensics` `Incident Response` `Penetration Testing` `Network Security` `SIEM`
 
 ### 🤖 AI & Automation
 
@@ -50,14 +50,18 @@ I enjoy exploring both defensive and offensive security, from threat hunting and
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Data
+### 🗄️ Databases & Backend Services
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -65,6 +69,7 @@ I enjoy exploring both defensive and offensive security, from threat hunting and
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square" />
 </p>
 
@@ -120,8 +125,7 @@ A snapshot of what I've been learning, experimenting with, and contributing to.
 <p align="center">
   Always open to connecting, collaborating, and exploring what comes next.
 </p>
-<br>
-</br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/⚡_BREAK_BOUNDARIES-18181B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BUILD_INTELLIGENCE-6E40C9?style=for-the-badge" />
