@@ -4,7 +4,7 @@
 
 ### Cybersecurity · Artificial Intelligence · Automation
 
-Exploring how intelligent systems can strengthen **security operations, investigations, and decision-making**.
+Exploring how intelligent systems can strengthen **security, decision-making, and the way we build technology**.
 
 </div>
 
@@ -14,7 +14,7 @@ Exploring how intelligent systems can strengthen **security operations, investig
 
 I'm a cybersecurity student from Singapore interested in the intersection of **security, artificial intelligence, and automation**.
 
-I enjoy exploring both defensive and offensive security, from threat hunting and digital forensics to penetration testing, while experimenting with how AI can support analysts, streamline complex processes, and improve security workflows.
+I enjoy exploring both defensive and offensive security, from threat hunting and digital forensics to penetration testing, while experimenting with how AI can enhance technical workflows, solve complex problems, and augment human capabilities.
 
 ### 🔭 Currently Exploring
 
@@ -124,40 +124,14 @@ A snapshot of what I've been learning, experimenting with, and contributing to.
 
 ---
 
+<br>
+
 <div align="center">
 
-## ⚡ Operating Loop
-
-<sub>How I approach security problems and technical challenges.</sub>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/01-DETECT-238636?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/02-INVESTIGATE-1F6FEB?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/03-AUTOMATE-8957E5?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/04-EVOLVE-F0883E?style=for-the-badge" />
-
-<br><br>
-
-`signal` → `evidence` → `action` → `improvement`
-
-<br><br>
-
-<sub>
-🔍 Follow the evidence &nbsp;•&nbsp;
-⚙️ Automate the repeatable &nbsp;•&nbsp;
-🛡️ Strengthen the system
-</sub>
-
-<br><br>
-
-### `SECURITY × INTELLIGENCE × AUTOMATION`
+### ⚡ `Break boundaries. Build intelligence. Automate impact.`
 
 <br>
 
-**Thanks for stopping by 👾**
+**Thank you for visiting! 👾**
 
 </div>
