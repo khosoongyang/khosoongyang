@@ -30,9 +30,49 @@ I enjoy exploring both defensive and offensive security, from threat hunting and
 
 ## 🧰 Skills & Technologies
 
-### 🛡️ Cybersecurity
+### 🔐 Cybersecurity
 
-`Security Operations` `Threat Hunting` `Threat Detection` `Threat Intelligence` `Digital Forensics` `Incident Response` `Penetration Testing` `Network Security` `SIEM`
+#### 🛡️ Defensive Security
+
+`Security Operations` `Threat Hunting` `Threat Detection` `Threat Intelligence` `SIEM` `Network Security`
+
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snort-F6A7AA?style=flat-square&logo=snort&logoColor=black" />
+  <img src="https://img.shields.io/badge/OSSEC-1F2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/YARA-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenVAS-16833B?style=flat-square" />
+</p>
+
+#### 🔎 DFIR
+
+`Digital Forensics` `Incident Response` `Memory Forensics` `Evidence Analysis`
+
+<p>
+  <img src="https://img.shields.io/badge/Autopsy-4B5563?style=flat-square" />
+  <img src="https://img.shields.io/badge/FTK_Imager-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/EnCase-1F4E79?style=flat-square" />
+  <img src="https://img.shields.io/badge/Redline-B91C1C?style=flat-square" />
+</p>
+
+#### ⚔️ Offensive Security
+
+`Penetration Testing` `Vulnerability Assessment` `Web Application Security` `Network Penetration Testing` `Reconnaissance` `Password Attacks`
+
+<p>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square" />
+  <img src="https://img.shields.io/badge/Metasploit_Framework-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLmap-B31B1B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Nikto-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-5C4033?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hashcat-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hydra-1F2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-0E7490?style=flat-square" />
+  <img src="https://img.shields.io/badge/Maltego-1E88E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Recon--ng-374151?style=flat-square" />
+  <img src="https://img.shields.io/badge/Netcat-111827?style=flat-square" />
+</p>
 
 ### 🤖 AI & Automation
 
@@ -94,7 +134,6 @@ I enjoy exploring both defensive and offensive security, from threat hunting and
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white" />
   <img src="https://img.shields.io/badge/Red_Hat_Enterprise_Linux-EE0000?style=flat-square&logo=redhat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
