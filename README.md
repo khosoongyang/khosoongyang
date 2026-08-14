@@ -53,18 +53,27 @@ I enjoy exploring both defensive and offensive security, from threat hunting and
   <img src="https://img.shields.io/badge/FTK_Imager-2563EB?style=flat-square" />
   <img src="https://img.shields.io/badge/EnCase-1F4E79?style=flat-square" />
   <img src="https://img.shields.io/badge/Redline-B91C1C?style=flat-square" />
+  <img src="https://img.shields.io/badge/ExifTool-374151?style=flat-square" />
 </p>
 
 #### ⚔️ Offensive Security
 
-`Penetration Testing` `Vulnerability Assessment` `Web Application Security` `Network Penetration Testing` `Reconnaissance` `Password Attacks`
+`Penetration Testing` `Vulnerability Assessment` `Web Application Security` `Network Penetration Testing` `Reconnaissance` `Password Attacks` `Active Directory Security`
 
 <p>
   <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square" />
-  <img src="https://img.shields.io/badge/Metasploit_Framework-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLmap-B31B1B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gobuster-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Nikto-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQLmap-B31B1B?style=flat-square" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit_Framework-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meterpreter-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/ProxyChains-374151?style=flat-square" />
+  <img src="https://img.shields.io/badge/Plink-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/Impacket-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Responder-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/NetExec-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mimikatz-B91C1C?style=flat-square" />
   <img src="https://img.shields.io/badge/John_the_Ripper-5C4033?style=flat-square" />
   <img src="https://img.shields.io/badge/Hashcat-111111?style=flat-square" />
   <img src="https://img.shields.io/badge/Hydra-1F2937?style=flat-square" />
@@ -114,6 +123,7 @@ I enjoy exploring both defensive and offensive security, from threat hunting and
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
