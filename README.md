@@ -156,16 +156,11 @@ I enjoy exploring both defensive and offensive security, from threat hunting and
 A snapshot of what I've been learning, experimenting with, and contributing to.
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://www.gitskins.com/api/section/stats?username=khosoongyang&theme=github-dark&style=terminal&mode=light"
-    />
-    <img
-      src="https://www.gitskins.com/api/section/stats?username=khosoongyang&theme=github-dark&style=terminal"
-      alt="Soong Yang GitHub statistics"
-    />
-  </picture>
+  <img
+    src="./assets/github-activity.svg"
+    alt="Soong Yang GitHub Activity"
+    width="100%"
+  />
 </p>
 
 ---
